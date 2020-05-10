@@ -8,3 +8,6 @@
     git commit -m "your message ahout the commit"
     git remote add origin https://github.com/username/repository.github
     git push -u origin master
+3. git push -u github master # in case multiple repository.
+4. Create a new branch
+    git checkout -b <my branch name>
