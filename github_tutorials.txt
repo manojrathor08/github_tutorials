@@ -1,0 +1,10 @@
+## Some useful tips for github
+1. Create a local git repo
+    git init
+2. Add a file to new repo
+    touch github_tutorial.txt
+    git status
+    git Add
+    git commit -m "your message ahout the commit"
+    git remote add origin https://github.com/username/repository.github
+    git push -u origin master
